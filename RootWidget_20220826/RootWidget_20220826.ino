@@ -4,9 +4,8 @@ Judge me kindly, the intention in this program is for ease of readability and no
 
 To do:
 
+fix ubuntu bug where first button press won’t work when firefox initially launched.
 clean up code, add comments
-search for ??? to find other stuff to fix
-add stackoverflow pages
 
 good reference for the codes for various keys:
 https://www.arduino.cc/reference/en/language/functions/usb/keyboard/keyboardmodifiers/
