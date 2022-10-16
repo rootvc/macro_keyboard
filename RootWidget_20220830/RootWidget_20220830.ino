@@ -113,7 +113,7 @@ void loop() {
             launchBrowser();
             switch(i){
               case 1:
-                Keyboard.println("https://root.vc/#keypad");
+                Keyboard.println("https://root.vc/keypad");
                 delay(300);
                 Keyboard.write(KEY_RETURN);
                 Keyboard.releaseAll();
